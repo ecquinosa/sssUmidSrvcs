@@ -1,0 +1,4 @@
+2020-05-07 16:35:34.3110|ERROR|sssUmidSrvcs.Helpers.UMIDLibrary.ReadData|Object reference not set to an instance of an object.
+2020-05-07 16:37:21.0816|ERROR|sssUmidSrvcs.Helpers.UMIDLibrary.ReadData|Object reference not set to an instance of an object.
+2020-05-07 16:44:52.7755|ERROR|sssUmidSrvcs.Helpers.UMIDLibrary.ReadData|Access to the path 'C:\Program Files (x86)\IIS Express\App_Data\011133805498' is denied.
+2020-05-07 16:45:21.9285|ERROR|sssUmidSrvcs.Helpers.UMIDLibrary.ReadData|Access to the path 'C:\Program Files (x86)\IIS Express\App_Data\011133805498' is denied.
