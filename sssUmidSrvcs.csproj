@@ -58,6 +58,7 @@
     <Reference Include="System.Data" />
     <Reference Include="System.Drawing" />
     <Reference Include="System.IO.Compression" />
+    <Reference Include="System.Management" />
     <Reference Include="System.ServiceModel" />
     <Reference Include="System.Transactions" />
     <Reference Include="System.Web.Entity" />
@@ -176,6 +177,8 @@
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
     <Compile Include="Helpers\ANSI.cs" />
+    <Compile Include="Helpers\ComputerInfo.cs" />
+    <Compile Include="Helpers\Cryptor.cs" />
     <Compile Include="Helpers\UMIDLibrary.cs" />
     <Compile Include="Helpers\Utilities.cs" />
     <Compile Include="Models\CardData.cs" />
